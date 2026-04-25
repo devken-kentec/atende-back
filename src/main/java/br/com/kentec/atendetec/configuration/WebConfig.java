@@ -35,6 +35,4 @@ public class WebConfig {
 		filter.setOrder(Ordered.HIGHEST_PRECEDENCE);
 		return filter;
 	}
-	
-
 }
